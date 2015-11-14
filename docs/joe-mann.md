@@ -4,4 +4,6 @@ Codito ergo sum
 
 less codito mas cogito
 
-*** my favourite colour is: blue
+*** my favourite colour is: blue *** 
+
+_still learning about this Markdown thing_
